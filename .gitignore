@@ -1,0 +1,8 @@
+# Local project instructions, memory and receipts
+/.agents/
+/.codex-governance/
+/AGENTS.md
+/CURRENT.md
+/.codex/
+/node_modules/
+*.log
