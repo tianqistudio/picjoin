@@ -6,3 +6,7 @@
 /.codex/
 /node_modules/
 *.log
+
+# Local verification and release staging
+/qa/
+/releases/
